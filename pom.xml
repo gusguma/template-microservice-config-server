@@ -78,11 +78,6 @@
             <scope>runtime</scope>
             <optional>true</optional>
         </dependency>
-        <!-- Spring Cloud Eureka Client -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-        </dependency>
         <!-- ================ TEST =========================================== -->
         <!-- Spring Test -->
         <dependency>
